@@ -103,6 +103,7 @@ Command-line clients for agents that run on someone else's machines.
 
 - [GitHub CLI agent-task](https://cli.github.com/manual/gh_agent-task) - Preview `gh agent-task` commands that start, list, and follow Copilot cloud agent tasks from the terminal. The CLI is open source (MIT); the agent is a proprietary service. Install: `brew install gh`.
 - [Jules Tools](https://jules.google/docs/cli/reference/) - Command-line client for Jules, Google's asynchronous coding agent that works on GitHub repositories in cloud virtual machines. Proprietary. Install: `npm install -g @google/jules`.
+- [Orbi](https://github.com/orbi-build/orbi) - Self-hosted autonomous coding agent that turns labeled GitHub Issues into reviewed pull requests; also available as a managed cloud at [orbi.build](https://orbi.build/?ref=gh-ahmadyan-aca). Open source (AGPL-3.0). Install: `docker run orbi/orbi` or the installer in the repo README.
 
 ## Run several at once
 
